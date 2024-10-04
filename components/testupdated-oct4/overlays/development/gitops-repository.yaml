@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: testupdated-oct4-gitops-repository
+spec:
+  url: https://github.com/jdubrick-ai/testupdated-oct4-gitops
